@@ -1,3 +1,3 @@
 <x-app-layout>
-    Welkom!
+    hoi!
 </x-app-layout>
